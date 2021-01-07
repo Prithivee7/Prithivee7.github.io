@@ -1,5 +1,5 @@
 ## Introduction
-  This is a code repository of a real time chat application between a student and a tutor, where the student can get his/her queries answered from tutors who are experts. The chat application focuses on privacy and userfriendliness.
+  This is a code repository of a real time chat application between a student and a tutor, where the student can get his/her queries answered from tutors who are experts. The chat application focuses on privacy and user friendliness.
 
 The frontend is built with React and the backend is handled by Node.js and socket.io.
 For realtime bidirectional communication web socket library socket.io is used.
@@ -7,8 +7,6 @@ For realtime bidirectional communication web socket library socket.io is used.
 ## Salient Features:
 * A room will contain only a single student so the student can clear all his queries without any interference.
 * Since there are multiple tutors the student doesnt have to wait.
-* A tutor can not login as a student
-* The conversations is sent to the database for future analysis
 
 
 The student logins with his name and his mail. Authentication is done by google login.
@@ -27,7 +25,6 @@ Tutor's chat window - After the tutor had joined.
 When multiple users are waiting in the waiting room
 ![](Images/admin2users.png)
 
-scroll down feature
 ![](Images/chat3.png)
 
 
