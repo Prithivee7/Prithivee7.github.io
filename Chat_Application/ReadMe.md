@@ -20,8 +20,6 @@ After the student successfully logs in he is taken to the private room
 Login page for admin.
 ![](Images/adminLogin.png)
 
-After the admin successfully logs in he is taken to the waiting room where the status of the student is shown. He/She can join the room of the student.   
-![](Images/admin.png)
 
 Tutor's chat window - After the tutor had joined. 
 ![](Images/chat2.png)
