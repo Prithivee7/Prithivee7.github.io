@@ -11,11 +11,6 @@ For realtime bidirectional communication web socket library socket.io is used.
 * The conversations is sent to the database for future analysis
 
 
-# Client
-The client consists of App.js, index.js and components.
-
-Inside the index.js file we are going to initiate the react application. 
-
 The student logins with his name and his mail. Authentication is done by google login.
 ![](Images/join.png)
 
