@@ -14,8 +14,6 @@ For realtime bidirectional communication web socket library socket.io is used.
 The student logins with his name and his mail. Authentication is done by google login.
 ![](Images/join.png)
 
-If the tutor tries to login as a student an error message is displayed and he/she is redirected to the join page 
-![](Images/tutorsAsStudents.png)
 
 After the student successfully logs in he is taken to the private room
 ![](Images/chat.png)
@@ -26,8 +24,6 @@ Login page for admin.
 After the admin successfully logs in he is taken to the waiting room where the status of the student is shown. He/She can join the room of the student.   
 ![](Images/admin.png)
 
-If the student is already logged in and tries to login again he receives an error saying only one session per mail
-![](Images/userAlreadyInSession.png)
 
 Tutor's chat window - After the tutor had joined. 
 ![](Images/chat2.png)
