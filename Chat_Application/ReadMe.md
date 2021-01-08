@@ -7,6 +7,7 @@ For realtime bidirectional communication web socket library socket.io is used.
 ## Salient Features:
 * A room will contain only a single student so the student can clear all his queries without any interference.
 * Since there are multiple tutors the student doesnt have to wait.
+* This application is not confined only to teacher and student .It is a generic application. It is also applicable for private chat between any individuals in an organisation.
 
 
 The student logins with his name and his mail. Authentication is done by google login.
