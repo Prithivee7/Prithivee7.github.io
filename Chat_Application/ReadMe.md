@@ -20,9 +20,6 @@ Login page for admin.
 ![](Images/adminLogin.png)
 
 
-Tutor's chat window - After the tutor had joined. 
-![](Images/chat2.png)
-
 When multiple users are waiting in the waiting room
 ![](Images/admin2users.png)
 
