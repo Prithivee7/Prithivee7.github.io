@@ -1,7 +1,7 @@
 ## Introduction
   This is a code repository of a real time chat application between a student and a tutor, where the student can get his/her queries answered from tutors who are experts. The chat application focuses on privacy and user friendliness.
 
-The frontend is built with React and the backend is handled by Node.js and socket.io.
+The frontend is built with React and the backend is handled by Node.js.
 For realtime bidirectional communication web socket library socket.io is used.
 
 ## Salient Features:
